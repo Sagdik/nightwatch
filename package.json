@@ -1,0 +1,17 @@
+{
+  "name": "testdemoproject",
+  "version": "1.0.0",
+  "description": "For demo Nightwatch",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "Sagar Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.2.4"
+  },
+  "devDependencies": {
+    "chromedriver": "^77.0.0"
+  }
+}
