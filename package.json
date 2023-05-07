@@ -9,7 +9,7 @@
   "author": "Sagar Tripathi",
   "license": "ISC",
   "dependencies": {
-    "nightwatch": "^1.2.4"
+    "nightwatch": "^2.6.20"
   },
   "devDependencies": {
     "chromedriver": "^77.0.0"
